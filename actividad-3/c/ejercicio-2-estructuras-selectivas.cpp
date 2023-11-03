@@ -9,7 +9,6 @@
 * Si la calificación es mayor o igual a cero y menor o igual a 6 imprimir “No acreditado”
 *******************************************************************************************/
 #include <stdio.h>
-#include <stdio.h>
 #include <windows.h>
 
 int main() {
